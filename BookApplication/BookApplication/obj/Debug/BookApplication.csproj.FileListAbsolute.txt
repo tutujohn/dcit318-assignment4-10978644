@@ -1,0 +1,10 @@
+C:\Users\unity\source\repos\BookApplication\BookApplication\bin\Debug\BookApplication.exe.config
+C:\Users\unity\source\repos\BookApplication\BookApplication\bin\Debug\BookApplication.exe
+C:\Users\unity\source\repos\BookApplication\BookApplication\bin\Debug\BookApplication.pdb
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.AssemblyReference.cache
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.Form1.resources
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.Properties.Resources.resources
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.GenerateResource.cache
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.exe
+C:\Users\unity\source\repos\BookApplication\BookApplication\obj\Debug\BookApplication.pdb
